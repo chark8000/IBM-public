@@ -1,5 +1,6 @@
 # My Jupyter Notebook on SkillsNetwork Lab
-<b> Charlotte - Student </b>
+<b> Charlotte H</b> 
+<b> Student </b>
 
 <i> I am an economics student and I am learning the tools of data science so I can mine data and ask and answer more interesting questions. </i>
 ### The following code performs a multiplication
