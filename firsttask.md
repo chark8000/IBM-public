@@ -5,9 +5,7 @@
 ### The following code performs a multiplication
 
 ```
-
 7*8
-print()
 ```
 
 
