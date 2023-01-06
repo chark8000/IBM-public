@@ -4,7 +4,12 @@
 <i> I am an economics student and I am learning the tools of data science so I can mine data and ask and answer more interesting questions. </i>
 ### The following code performs a multiplication
 
+```
+{
 7*8
+}
+```
+
 
 | Product | Quantity needed | Price (each) |
 | --- | --- | --- |
